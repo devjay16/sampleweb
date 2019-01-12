@@ -15,7 +15,7 @@ namespace CSharp_Example
             {
                 //Increment up tp max
                 int num = 0;
-                for (int i = 0; i < int.MaxValue; i++)
+                for (int i = 1; i < int.MaxValue; i++)
                 {
                     num++;
                 }
